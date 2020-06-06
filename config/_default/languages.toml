@@ -14,23 +14,23 @@ languageCode = "ru-ru"
   title = "Алиса С. Карташова"
   [ru.params]
    description = "Сайт-резюме Карташовой Алисы Семеновны"
- [[zh.menu.main]]
+ [[ru.menu.main]]
    name = "Главная"
     url = "#about"
     weight = 10
-[[zh.menu.main]]
+[[ru.menu.main]]
    name = "Посты"
     url = "#posts"
     weight = 20
-[[zh.menu.main]]
+[[ru.menu.main]]
    name = "Проекты"
     url = "#projects"
     weight = 30
-[[zh.menu.main]]
+[[ru.menu.main]]
    name = "Публикации"
     url = "#featured"
     weight = 40
-[[zh.menu.main]]
+[[ru.menu.main]]
    name = "Контакты"
     url = "#contact"
     weight = 60
